@@ -12,7 +12,7 @@ end
 
 def pioneer
   pioneer = {
-    awesome_lady: "Grace Hopper"
+    name: "Grace Hopper"
   }
 end
 

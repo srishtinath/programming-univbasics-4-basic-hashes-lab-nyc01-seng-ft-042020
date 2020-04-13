@@ -11,7 +11,9 @@ def my_hash
 end
 
 def pioneer
-  awesome_lady: 'Grace Hopper'
+  pioneer = {
+    awesome_lady: "Grace Hopper"
+  }
 end
 
 
